@@ -1,1 +1,2 @@
 # Delicious-Delivery-
+A campus food delivery platform based on SpringBoot+MySQL+MyBatis+Redis+JWT+WebSocket+Nginx has been developed, including management and mobile terminals. The management end has implemented the function of managing and maintaining data such as restaurant classification, dishes, packages, orders, and employees. The mobile end has enabled users to view dishes online, add shopping carts, place orders, make payments, and receive reminders.
